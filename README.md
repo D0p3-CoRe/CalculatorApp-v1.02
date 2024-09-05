@@ -21,7 +21,7 @@ A simple calculator app for iOS, built with Swift and SwiftUI. This app allows u
 1. Clone this repository:
 
     ```bash
-    git clone https://github.com/yourusername/ios-calculator-app.git
+    git clone [https://github.com/yourusername/ios-calculator-app.git](https://github.com/D0p3-CoRe/CalculatorApp-v1.02)
     ```
 
 2. Open the project in Xcode:
