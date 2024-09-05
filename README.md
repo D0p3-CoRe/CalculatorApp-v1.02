@@ -44,7 +44,6 @@ A simple calculator app for iOS, built with Swift and SwiftUI. This app allows u
 
 ![Calculator Screenshot](./screenshot.png)
 
-*(Add your own screenshot of the app)*
 
 ## Contributing
 
